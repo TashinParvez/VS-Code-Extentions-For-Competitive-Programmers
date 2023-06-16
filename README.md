@@ -8,4 +8,4 @@
 7. Tabnine AI Autocomplete for Javascript, Python, Typescript, PHP, Go, Java, Ruby & more 
 8. Better Comments
 9. Bracket pair colorizer
-10. 
+10. Mintlify Doc Writer 
