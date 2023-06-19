@@ -1,5 +1,5 @@
 # VS_Code_Extentions
-1. Competitive Programming Helper (cph)
+1. Competitive Programming Helper (cph) & its browser extension [https://chrome.google.com/webstore/detail/competitive-companion/cjnmckjndlpiamhfimnnjmnckgghkjbl]
 2. Error Lens
 3. indent-rainbow
 4. Live Server
