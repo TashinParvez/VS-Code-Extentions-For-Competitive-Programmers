@@ -4,7 +4,7 @@
 3. indent-rainbow
 4. Live Server
 5. Prettier - Code formatter
-6. Material Icon Theme
+6. vs code-icons
 7. Tabnine AI Autocomplete for Javascript, Python, Typescript, PHP, Go, Java, Ruby & more 
 8. Better Comments
 9. Bracket pair colorizer
